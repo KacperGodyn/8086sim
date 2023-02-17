@@ -1,0 +1,34 @@
+C:\Users\kacpe\Desktop\VS\C#\8086\bin\Debug\net6.0-windows\8086.exe
+C:\Users\kacpe\Desktop\VS\C#\8086\bin\Debug\net6.0-windows\8086.deps.json
+C:\Users\kacpe\Desktop\VS\C#\8086\bin\Debug\net6.0-windows\8086.runtimeconfig.json
+C:\Users\kacpe\Desktop\VS\C#\8086\bin\Debug\net6.0-windows\8086.dll
+C:\Users\kacpe\Desktop\VS\C#\8086\bin\Debug\net6.0-windows\8086.pdb
+C:\Users\kacpe\Desktop\VS\C#\8086\obj\Debug\net6.0-windows\8086.csproj.AssemblyReference.cache
+C:\Users\kacpe\Desktop\VS\C#\8086\obj\Debug\net6.0-windows\_8086.Form1.resources
+C:\Users\kacpe\Desktop\VS\C#\8086\obj\Debug\net6.0-windows\8086.csproj.GenerateResource.cache
+C:\Users\kacpe\Desktop\VS\C#\8086\obj\Debug\net6.0-windows\8086.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kacpe\Desktop\VS\C#\8086\obj\Debug\net6.0-windows\8086.AssemblyInfoInputs.cache
+C:\Users\kacpe\Desktop\VS\C#\8086\obj\Debug\net6.0-windows\8086.AssemblyInfo.cs
+C:\Users\kacpe\Desktop\VS\C#\8086\obj\Debug\net6.0-windows\8086.csproj.CoreCompileInputs.cache
+C:\Users\kacpe\Desktop\VS\C#\8086\obj\Debug\net6.0-windows\8086.dll
+C:\Users\kacpe\Desktop\VS\C#\8086\obj\Debug\net6.0-windows\refint\8086.dll
+C:\Users\kacpe\Desktop\VS\C#\8086\obj\Debug\net6.0-windows\8086.pdb
+C:\Users\kacpe\Desktop\VS\C#\8086\obj\Debug\net6.0-windows\8086.genruntimeconfig.cache
+C:\Users\kacpe\Desktop\VS\C#\8086\obj\Debug\net6.0-windows\ref\8086.dll
+D:\old desktop\VS\C#\8086\obj\Debug\net6.0-windows\8086.dll
+D:\old desktop\VS\C#\8086\obj\Debug\net6.0-windows\refint\8086.dll
+D:\old desktop\VS\C#\8086\obj\Debug\net6.0-windows\8086.pdb
+D:\old desktop\VS\C#\8086\bin\Debug\net6.0-windows\8086.exe
+D:\old desktop\VS\C#\8086\bin\Debug\net6.0-windows\8086.deps.json
+D:\old desktop\VS\C#\8086\bin\Debug\net6.0-windows\8086.runtimeconfig.json
+D:\old desktop\VS\C#\8086\bin\Debug\net6.0-windows\8086.dll
+D:\old desktop\VS\C#\8086\bin\Debug\net6.0-windows\8086.pdb
+D:\old desktop\VS\C#\8086\obj\Debug\net6.0-windows\8086.csproj.AssemblyReference.cache
+D:\old desktop\VS\C#\8086\obj\Debug\net6.0-windows\_8086.Form1.resources
+D:\old desktop\VS\C#\8086\obj\Debug\net6.0-windows\8086.csproj.GenerateResource.cache
+D:\old desktop\VS\C#\8086\obj\Debug\net6.0-windows\8086.GeneratedMSBuildEditorConfig.editorconfig
+D:\old desktop\VS\C#\8086\obj\Debug\net6.0-windows\8086.AssemblyInfoInputs.cache
+D:\old desktop\VS\C#\8086\obj\Debug\net6.0-windows\8086.AssemblyInfo.cs
+D:\old desktop\VS\C#\8086\obj\Debug\net6.0-windows\8086.csproj.CoreCompileInputs.cache
+D:\old desktop\VS\C#\8086\obj\Debug\net6.0-windows\8086.genruntimeconfig.cache
+D:\old desktop\VS\C#\8086\obj\Debug\net6.0-windows\ref\8086.dll
